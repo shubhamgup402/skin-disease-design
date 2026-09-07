@@ -1,0 +1,22 @@
+# Local environment and secret variables
+.venv/
+.env.local
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build and output logs
+dist/
+build/
+*.log
+
+# System files (macOS & Windows)
+.DS_Store
+Thumbs.db
+
+# IDE and Code Editor configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
